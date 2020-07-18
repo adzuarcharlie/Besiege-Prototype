@@ -53,4 +53,4 @@ Here is the list of levels :
 6. Same, but the targets move.
 7. *Added with version 1*. The targets are now on the ground. You therefore have to use the *hold-canons* with the correct force in order to shoot them.
 
-*This project was made with Unity 2019.2.11f1, there is a build where you can launch*
+*This project was made with Unity 2019.2.11f1, there is a build that you can launch*
