@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2494664397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 797b77ba135151796f2fc6aa08aeb3cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c63b7ef556a82577a4d87b77a4f48dc3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbf0fc048a6e6ab41a85570c4cebde26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb3223aabdb567a4b954b7acad6c75a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38e5b4fcd7edf3e47be9aeb308e7a440, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pieces/Canon_Collider.prefab
+- Assets/Pieces/Engine_Collider.prefab
+- Assets/Pieces/HoldingCanon_Collider.prefab
+- Assets/Pieces/Booster_Collider.prefab
+Dependencies:
+- C:/Users/CHARLIE/Desktop/Besiege/AssetBundles/StandaloneWindows/materials

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2428288543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2784176c414eaa62220a1df0e5ac4806
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 99504e14330b5f996d4763976081255f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/WinZoneMaterial.mat
+- Assets/Sprites/button2.png
+- Assets/Materials/WoodMaterial.mat
+- Assets/Sprites/button3.png
+- Assets/Materials/BaseMaterial.mat
+- Assets/Materials/WheelMaterial.mat
+- Assets/Sprites/button1.png
+- Assets/Materials/SteelMaterial.mat
+- Assets/Sprites/cross.png
+- Assets/Materials/BoosterMaterial.mat
+- Assets/Materials/HoldCanon.mat
+- Assets/Sprites/button4.png
+Dependencies: []

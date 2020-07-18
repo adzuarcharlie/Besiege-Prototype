@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 815043350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0241e818bb81d5bffc39253e05dcfca7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dee135929a42cb4e50944b6d03c36979
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbf0fc048a6e6ab41a85570c4cebde26, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pieces/Canon.prefab
+Dependencies:
+- C:/Users/CHARLIE/Desktop/Besiege/AssetBundles/StandaloneWindows/materials

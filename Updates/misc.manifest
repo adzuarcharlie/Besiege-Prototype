@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1627151064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d7812aef777586b0960c9da4481c1e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c32ffdbc5f608082d3fcb28f98bbc67
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38e5b4fcd7edf3e47be9aeb308e7a440, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pieces/Booster.prefab
+Dependencies:
+- C:/Users/CHARLIE/Desktop/Besiege/AssetBundles/StandaloneWindows/materials

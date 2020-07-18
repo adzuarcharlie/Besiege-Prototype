@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2710743375
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de26f54c6b458e571d949b53958e98e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee42f4ef0798608f7612c9225f0971e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pieces/Wood.prefab
+- Assets/Pieces/Steel.prefab
+Dependencies:
+- C:/Users/CHARLIE/Desktop/Besiege/AssetBundles/StandaloneWindows/materials

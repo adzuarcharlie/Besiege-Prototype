@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3432519845
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: levels
+      Dependencies:
+        Dependency_0: materials
+    Info_1:
+      Name: materials
+      Dependencies: {}
+    Info_2:
+      Name: weapons
+      Dependencies:
+        Dependency_0: materials
+    Info_3:
+      Name: basics
+      Dependencies:
+        Dependency_0: materials
+    Info_4:
+      Name: prefabs
+      Dependencies:
+        Dependency_0: materials
+    Info_5:
+      Name: movement
+      Dependencies:
+        Dependency_0: materials
+    Info_6:
+      Name: colliders
+      Dependencies:
+        Dependency_0: materials
+    Info_7:
+      Name: misc
+      Dependencies:
+        Dependency_0: materials

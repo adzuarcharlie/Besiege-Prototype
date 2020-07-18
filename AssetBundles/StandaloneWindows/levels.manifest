@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 661334739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbbdf3446c5c5b9c389d57d9f49382be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f69e9464be42905e30b9e481e169d49e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d96778a0add2a84488d19cfba7100a85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fae0915258a4779478399fdf81af02d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bce38b23ccdd3b47b706e0f0575f7f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a28e5fe21cecdc745bc719c3809317d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01f5f768bded3d449abe20093e2ae220, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72fe4e8947d87b24ab31cac31c2796c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48d5849cad81b2549b8bf6758750b722, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78c56dccb3f84104cbe0186f776d89c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Levels/Level 4.unity
+- Assets/Scenes/Levels/Level 1.unity
+- Assets/Scenes/Levels/Level 3.unity
+- Assets/Scenes/Levels/Level 6.unity
+- Assets/Scenes/Levels/Level 7.unity
+- Assets/Scenes/Levels/Level 5.unity
+- Assets/Scenes/Levels/Level 2.unity
+Dependencies:
+- C:/Users/CHARLIE/Desktop/Besiege/AssetBundles/StandaloneWindows/materials
